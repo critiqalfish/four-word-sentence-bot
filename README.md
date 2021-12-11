@@ -2,5 +2,5 @@
 
 ## versions:
 
-reddit: working
+reddit: working\n
 twitter: work in progress
